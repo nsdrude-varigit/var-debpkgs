@@ -161,10 +161,10 @@ Architecture: arm64
 Maintainer: Pitchaiah P <pitchaiah.p@variscite.com>
 Installed-Size: 49967
 Filename: ./pool/bookworm/l/linux-headers-6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1_6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1_arm64.deb
-Size: 8240488
-MD5sum: 3b94e44277dd4b8c0a79f7cd1e59ea7f
-SHA1: 3e6f7ffa3ef239e3c11b9b50947f199e82a056f9
-SHA256: 82a64ce2beeeb5f5c59f603c549df1cf4a072948df7c6fc25de95568af51ddb1
+Size: 8241564
+MD5sum: d9fc2c685d3f89d83be74113fb93f7c0
+SHA1: bc67392c1499ad68bfd98517a2ee0e81bcb83769
+SHA256: e499a57f5c0290bac631c414071aee26d6f0905bdd7b625e7a497e9b725bf6f3
 Section: kernel
 Priority: optional
 Homepage: https://www.kernel.org/
@@ -322,13 +322,13 @@ Source: ti-linux-kernel
 Version: 6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1
 Architecture: arm64
 Maintainer: Pitchaiah P <pitchaiah.p@variscite.com>
-Installed-Size: 43659
+Installed-Size: 43748
 Depends: linux-headers-6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1
 Filename: ./pool/bookworm/l/linux-image-6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1_6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1_arm64.deb
-Size: 15173964
-MD5sum: 83f9a3f63fbe8230ef898ff3c27f85a8
-SHA1: d3b990dd7a3c1fb5929d1ba872ab00db183c663e
-SHA256: 1e1b01bdc40e4c28feebca875fa854fc0d4e865eba51a1be013ab1af083094cd
+Size: 15186508
+MD5sum: ccbac3ae9daa580ce151bfca78bb2fbd
+SHA1: e7f9edb9870c52bc92e0f2acc3b87eb41520b82f
+SHA256: 60dbacc10c8a23034c95f3006166330bae561d17f53acf58eb2f2609e6261590
 Section: kernel
 Priority: optional
 Homepage: https://www.kernel.org/
@@ -343,10 +343,10 @@ Architecture: arm64
 Maintainer: Pitchaiah P <pitchaiah.p@variscite.com>
 Installed-Size: 207005
 Filename: ./pool/bookworm/l/linux-image-6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1-dbg_6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1_arm64.deb
-Size: 47920908
-MD5sum: 37a9c21fb172824617c940af2b42836a
-SHA1: eb2ee7d144ab25bda01790b39c63a78fcb23d438
-SHA256: 393ed24cab380a230dde34c9cee753fdde5bbbc1903ef6a73ef55c2f11fd2232
+Size: 47921540
+MD5sum: 7852a9a79a8f7432f0c5a620b6dbf2e9
+SHA1: 45b95e53b7434ae98e09bc2882982dfdfb468dec
+SHA256: f0ae77123d8260efbce8b13b7647b5e5f34a2e338c90be93359ff7ce749f41a9
 Section: debug
 Priority: optional
 Homepage: https://www.kernel.org/
@@ -442,10 +442,10 @@ Maintainer: Pitchaiah P <pitchaiah.p@variscite.com>
 Installed-Size: 6503
 Provides: linux-kernel-headers
 Filename: ./pool/bookworm/l/linux-libc-dev_6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1_arm64.deb
-Size: 1253132
-MD5sum: 43483e78f29aaeb45c1720e2ce93c1e8
-SHA1: 7b0ebcb4851c5379ec3d03fa0d33e2fe17f6477e
-SHA256: 2570c3847f5732707d3766f83489f1c8a0fbaa7045ebefe8617ea613570153f4
+Size: 1253108
+MD5sum: d7db7bc340cbdf172beba8259e3c49cb
+SHA1: d6e0f63ef8546844d7bcab1984ddf2f813c4b8cd
+SHA256: 2981e68f490b3b0002a17805a6becad0c53654e3bf682f1671540be08cb4e2b9
 Section: devel
 Priority: optional
 Multi-Arch: same
