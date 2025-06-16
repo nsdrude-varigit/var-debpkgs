@@ -15,6 +15,26 @@ Homepage: https://github.com/varigit/brcm-patchram-plus
 Description: BRCM Patchram Plus tool for ARM64
  A tool to load firmware patches on Broadcom devices.
 
+Package: udev-extraconf
+Version: 1.1+29d920f4c2249df7a69f00100924b4525e03c0d9-r0
+Architecture: all
+Maintainer: Pitchaiah P <pitchaiah.p@variscite.com>
+Installed-Size: 29
+Depends: udev, util-linux
+Filename: ./pool/bookworm/u/udev-extraconf/udev-extraconf_1.1+29d920f4c2249df7a69f00100924b4525e03c0d9-r0_all.deb
+Size: 5644
+MD5sum: 809505fd99bb23122a7a5c74680e6c0e
+SHA1: 3c32c089cd29c4def8b42a618d202875b9c348b6
+SHA256: c648b8076cc89f80c69014153b63292785c380e6ef85da20708e6cf86f301b0a
+Section: utils
+Priority: optional
+Homepage: https://git.openembedded.org/openembedded-core/
+Description: Extra udev configuration
+ This package provides additional udev configuration files and rules
+ used for enhancing device management. It requires basic udev tools
+ and utilities from util-linux, and optionally supports lsblk from
+ util-linux if systemd is in use.
+
 Package: var-mii
 Version: 1.0+18ba44d59193215e71ea30a9445067985f5c09e3-1
 Architecture: arm64
